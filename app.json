@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/RJMALLU/MW-AutoFilterBeta-V3",
+    "repository": "https://github.com/RJMALLU/MW-AutoFilterBeta-V3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
