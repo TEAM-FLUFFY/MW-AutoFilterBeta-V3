@@ -8,8 +8,7 @@
 <details><summary>𝑑𝑒𝑝𝑙𝑜𝑦 ᵗᵒ ℎ𝑒𝑟𝑜𝑘𝑢</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/RJMALLU/MW-AutoFilterBeta-V3">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<p><a href="https://heroku.com/deploy?template=https://github.com/saminsumesh/TeamSakura"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </a>
 </p>
 </details>
