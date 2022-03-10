@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BT/BT.lpg" alt="AutoFilterBeta-V3">
+  <img src="BT/cute-blue-robot-giving-thumbs-up-3d-picture-id1350820098.jpg" alt="AutoFilterBeta-V3">
 </p>
 <h1 align="center">
   <b>𝐵𝑒𝑡𝑎 𝑎𝑢𝑡𝑜 𝑓𝑖𝑙𝑡𝑒𝑟 𝑏𝑜𝑡</b>
