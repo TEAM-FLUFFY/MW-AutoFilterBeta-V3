@@ -5,7 +5,7 @@
   <b>𝐵𝑒𝑡𝑎 𝑎𝑢𝑡𝑜 𝑓𝑖𝑙𝑡𝑒𝑟 𝑏𝑜𝑡</b>
 </h1>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>𝑑𝑒𝑝𝑙𝑜𝑦 ᵗᵒ ℎ𝑒𝑟𝑜𝑘𝑢</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/RJMALLU/MW-AutoFilterBeta-V3">
